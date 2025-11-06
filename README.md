@@ -27,4 +27,4 @@ Note: GitHub’s auto-generated source archives do not contain resurrection kits
 Docs Portal
 Coming soon at https://docs.darkintel.store
 License
-Single-use, non-resale. Buyer terms are enforced via vault_refund_policy.md (included in paid bundles only).
+Single-use, non-resale. Buyer terms are enforced via vault_refund_policy.md (included in paid bundles only)
