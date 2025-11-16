@@ -9,7 +9,7 @@
 Resurrection kits are no longer hosted on GitHub.
 
 All bundles are now delivered via the official branded storefront:  
-👉 [https://darkintel.store](https://darkintel.store)
+👉 [http://darkintel.store](https://darkintel.store)
 
 No login. No subscription. Instant ZIP delivery via Stripe and Gumroad.
 
